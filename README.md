@@ -1,1 +1,1 @@
-# ece260c-mp1-starter
+# **ECE 260C Miniproject 1** MBFFs
